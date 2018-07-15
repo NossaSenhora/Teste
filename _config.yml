@@ -1,14 +1,11 @@
 title:
-  "Nossa Senhora do Perpétuo Socorro."
+  "Nossa Senhora do Perpétuo Socorro"
   
 description:
   "Sed tincidunt est a magna rutrum, eget rhoncus tortor maximus. Aenean a nunc a arcu luctus bibendum. Cras a mauris rhoncus dolor luctus lacinia nec eu tell."
 
 lang:
   "pt-BR"
-
-github:
-  "username"
 
 remote_theme:
   NossaSenhora/minima
