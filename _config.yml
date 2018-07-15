@@ -10,12 +10,6 @@ lang:
 remote_theme:
   NossaSenhora/minima
 
-google_analytics:
-  "UA-0000000"
-  
-viacdn:
-  "nossasenhoradoperpetuosocorro-com-br"
-
 header_pages:
   - content/inicio.md
   - content/oracao.md
