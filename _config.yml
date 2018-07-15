@@ -1,8 +1,11 @@
 title:
-  "Título do site"
+  "Nossa Senhora do Perpétuo Socorro."
   
 description:
-  "Descrição do site"
+  "Sed tincidunt est a magna rutrum, eget rhoncus tortor maximus. Aenean a nunc a arcu luctus bibendum. Cras a mauris rhoncus dolor luctus lacinia nec eu tell."
+
+lang:
+  "pt-BR"
 
 github:
   "username"
