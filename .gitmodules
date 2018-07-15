@@ -1,3 +1,7 @@
 [submodule "content/Teste"]
 	path = content/Teste
 	url = https://github.com/NossaSenhora/Central/Teste
+
+[submodule "content/Central"]
+	path = content/Central
+	url = https://github.com/NossaSenhora/Central.git
