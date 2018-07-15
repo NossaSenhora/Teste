@@ -1,0 +1,19 @@
+title:
+  "Título do site"
+  
+description:
+  "Descrição do site"
+
+github:
+  "username"
+
+remote_theme:
+  NossaSenhora/minima
+
+permalink:
+  pretty
+
+gems:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-redirect-from
