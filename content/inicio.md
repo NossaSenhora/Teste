@@ -1,6 +1,6 @@
 ---
-title: Título da página
-description: Descrição da página
+title: Início
+description: Site da Nossa Senhora do Desterro
 permalink: /
 ---
 
