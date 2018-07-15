@@ -10,6 +10,11 @@ github:
 remote_theme:
   NossaSenhora/minima
 
+header_pages:
+  - content/inicio.md
+  - content/oracao.md
+  - content/novena.md
+
 permalink:
   pretty
 
