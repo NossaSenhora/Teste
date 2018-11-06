@@ -2,7 +2,7 @@
 title: Novena
 description: Novena a Nossa Senhora do Desterro
 permalink: /novena/
-redirect_from: /novena/amp/
+redirect_from: "/novena/amp/"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin non iaculis orci, non auctor leo. Nulla vitae ante interdum, facilisis risus pretium, elementum nisi. Aenean arcu sem, pharetra at ipsum sed, luctus auctor odio. Duis at maximus libero, vitae maximus lacus. Aliquam posuere, odio eget posuere semper, mauris odio facilisis dui, non pulvinar mauris mi nec leo. Aenean purus elit, vehicula at posuere a, cursus ut velit. Nulla ac bibendum felis, venenatis consequat augue. Vestibulum vitae ex a sem sollicitudin pharetra. Nulla ac risus urna.
