@@ -2,6 +2,7 @@
 title: Oração
 description: Oração a Nossa Senhora do Desterro
 permalink: /oracao/
+redirect_from: /oracao/amp/
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer euismod, sapien ac tincidunt tempus, sapien mauris dignissim lectus, ac accumsan lacus lorem a nulla. Vestibulum sed lacinia mauris. Maecenas commodo quam lorem, sit amet rhoncus augue eleifend ut. Phasellus vitae enim nec ante semper viverra ut bibendum est. Aliquam faucibus erat ligula, vel malesuada risus faucibus a. Nullam nec eros nisl. Pellentesque sollicitudin pulvinar nunc, et rutrum ipsum imperdiet a. Integer tristique hendrerit rutrum.
